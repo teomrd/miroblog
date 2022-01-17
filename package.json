@@ -1,0 +1,25 @@
+{
+  "name": "miroblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve _site/README",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teomrd/miroblog.git"
+  },
+  "author": "teomrd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/teomrd/miroblog/issues"
+  },
+  "homepage": "https://github.com/teomrd/miroblog#readme",
+  "dependencies": {
+    "eleventy": "^1.0.6",
+    "serve": "^13.0.2"
+  }
+}
