@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "serve _site/README",
+    "serve": "eleventy --serve",
     "build": "eleventy"
   },
   "repository": {
@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/teomrd/miroblog#readme",
   "dependencies": {
-    "eleventy": "^1.0.6",
-    "serve": "^13.0.2"
+    "eleventy": "^1.0.6"
   }
 }
