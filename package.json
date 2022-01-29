@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/teomrd/miroblog#readme",
   "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
     "eleventy": "^1.0.6"
   }
 }
