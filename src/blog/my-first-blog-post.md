@@ -1,5 +1,5 @@
 ---
-title: Hey man
+title: Hi there 👋
 ---
 
-Hey man
+Haaallo 👋

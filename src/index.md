@@ -3,6 +3,6 @@ title: MiroBlog
 layout: base.njk
 ---
 
-> Hello Theo
+> Hello World
 
 {% include "postList.njk" %}

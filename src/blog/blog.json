@@ -1,5 +1,5 @@
 {
   "layout": "post",
   "tags": "posts", 
-  "permalink": "/{{ page.fileSlug }}/"
+  "permalink": "/miroblog/{{ page.fileSlug }}/"
 }
