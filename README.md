@@ -1,1 +1,0 @@
-# teomrd blog
