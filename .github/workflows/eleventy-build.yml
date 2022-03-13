@@ -8,6 +8,9 @@ jobs:
       - uses: actions/checkout@master
       - name: Build
         uses: TartanLlama/actions-eleventy@master
+        with:
+          args: --output public
+          install_dependencies: true
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
