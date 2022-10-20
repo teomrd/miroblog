@@ -4,7 +4,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addWatchTarget("./assets");
 
   return {
-    pathPrefix: "/miroblog/",
+    pathPrefix: "/",
     dir: {
       input: "src",
       output: "public"
