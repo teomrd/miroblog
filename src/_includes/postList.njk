@@ -1,5 +1,5 @@
 <ul>
 {% for post in collections.posts %}
-<li><a href="/miroblog/{{ post.url }}">{{ post.data.title }}</a></li>
+<li><a href="/miroblog{{ post.url }}">{{ post.data.title }}</a></li>
 {% endfor %}
 </ul>
