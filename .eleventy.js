@@ -4,7 +4,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addWatchTarget("./assets");
 
   return {
-    pathPrefix: "/",
     dir: {
       input: "src",
       output: "public"
